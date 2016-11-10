@@ -1,0 +1,34 @@
+.board {
+	margin: 20px 0;
+	text-align: center;
+}
+
+.btn-info {
+	display: inline-block;
+	margin: 20px auto;
+}
+
+.commentText {
+	padding: 50px 0;
+	background-color: #FFF;
+	margin-bottom: 20px;
+}
+
+.commentContainer {
+	background-color: #F5F5F5;
+	padding: 50px;
+	margin-bottom: 50px;
+	border-bottom: 1px solid #fff;
+}
+
+.commentContainer textarea{
+	width: 100%;
+	padding: 50px 20px;
+	background-color: #FFF;
+	margin-bottom: 20px;
+	text-align: center;
+}
+
+.btn {
+	margin-bottom: 20px;
+}
