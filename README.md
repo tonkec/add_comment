@@ -1,4 +1,4 @@
-# ubiquitous-octo-meme
+# add_comment
 Adding comments with React
 
 ##### Simple app to help me learn React
