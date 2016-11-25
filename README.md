@@ -1,6 +1,6 @@
 # add_comment 
 
-### [Demo](https://antonija_simic.bitbucket.io/add_comment/index.html)
+### [Demo](https://antonijasimic.bitbucket.io/add_comment/index.html)
 Adding comments with React, learning React
 
 Follow this
